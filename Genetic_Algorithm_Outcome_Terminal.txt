@@ -1,0 +1,346 @@
+Testing with population size: 25, mutation rate: 0.05, generations: 50
+Testing with population size: 25, mutation rate: 0.05, generations: 75
+Testing with population size: 25, mutation rate: 0.05, generations: 100
+Testing with population size: 25, mutation rate: 0.05, generations: 125
+Testing with population size: 25, mutation rate: 0.1, generations: 50
+Testing with population size: 25, mutation rate: 0.1, generations: 75
+Testing with population size: 25, mutation rate: 0.1, generations: 100
+Testing with population size: 25, mutation rate: 0.1, generations: 125
+Testing with population size: 25, mutation rate: 0.15, generations: 50
+Testing with population size: 25, mutation rate: 0.15, generations: 75
+Testing with population size: 25, mutation rate: 0.15, generations: 100
+Testing with population size: 25, mutation rate: 0.15, generations: 125
+Testing with population size: 25, mutation rate: 0.2, generations: 50
+Testing with population size: 25, mutation rate: 0.2, generations: 75
+Testing with population size: 25, mutation rate: 0.2, generations: 100
+Testing with population size: 25, mutation rate: 0.2, generations: 125
+Testing with population size: 50, mutation rate: 0.05, generations: 50
+Testing with population size: 50, mutation rate: 0.05, generations: 75
+Testing with population size: 50, mutation rate: 0.05, generations: 100
+Testing with population size: 50, mutation rate: 0.05, generations: 125
+Testing with population size: 50, mutation rate: 0.1, generations: 50
+Testing with population size: 50, mutation rate: 0.1, generations: 75
+Testing with population size: 50, mutation rate: 0.1, generations: 100
+Testing with population size: 50, mutation rate: 0.1, generations: 125
+Testing with population size: 50, mutation rate: 0.15, generations: 50
+Testing with population size: 50, mutation rate: 0.15, generations: 75
+Testing with population size: 50, mutation rate: 0.15, generations: 100
+Testing with population size: 50, mutation rate: 0.15, generations: 125
+Testing with population size: 50, mutation rate: 0.2, generations: 50
+Testing with population size: 50, mutation rate: 0.2, generations: 75
+Testing with population size: 50, mutation rate: 0.2, generations: 100
+Testing with population size: 50, mutation rate: 0.2, generations: 125
+Testing with population size: 75, mutation rate: 0.05, generations: 50
+Testing with population size: 75, mutation rate: 0.05, generations: 75
+Testing with population size: 75, mutation rate: 0.05, generations: 100
+Testing with population size: 75, mutation rate: 0.05, generations: 125
+Testing with population size: 75, mutation rate: 0.1, generations: 50
+Testing with population size: 75, mutation rate: 0.1, generations: 75
+Testing with population size: 75, mutation rate: 0.1, generations: 100
+Testing with population size: 75, mutation rate: 0.1, generations: 125
+Testing with population size: 75, mutation rate: 0.15, generations: 50
+Testing with population size: 75, mutation rate: 0.15, generations: 75
+Testing with population size: 75, mutation rate: 0.15, generations: 100
+Testing with population size: 75, mutation rate: 0.15, generations: 125
+Testing with population size: 75, mutation rate: 0.2, generations: 50
+Testing with population size: 75, mutation rate: 0.2, generations: 75
+Testing with population size: 75, mutation rate: 0.2, generations: 100
+Testing with population size: 75, mutation rate: 0.2, generations: 125
+Testing with population size: 100, mutation rate: 0.05, generations: 50
+Testing with population size: 100, mutation rate: 0.05, generations: 75
+Testing with population size: 100, mutation rate: 0.05, generations: 100
+Testing with population size: 100, mutation rate: 0.05, generations: 125
+Testing with population size: 100, mutation rate: 0.1, generations: 50
+Testing with population size: 100, mutation rate: 0.1, generations: 75
+Testing with population size: 100, mutation rate: 0.1, generations: 100
+Testing with population size: 100, mutation rate: 0.1, generations: 125
+Testing with population size: 100, mutation rate: 0.15, generations: 50
+Testing with population size: 100, mutation rate: 0.15, generations: 75
+Testing with population size: 100, mutation rate: 0.15, generations: 100
+Testing with population size: 100, mutation rate: 0.15, generations: 125
+Testing with population size: 100, mutation rate: 0.2, generations: 50
+Testing with population size: 100, mutation rate: 0.2, generations: 75
+Testing with population size: 100, mutation rate: 0.2, generations: 100
+Testing with population size: 100, mutation rate: 0.2, generations: 125
+Optimal parameters: Population size: 25, Mutation rate: 0.05, Generations: 50
+Best fitness value: 0
+
+Best fitness value in generation 1: 0
+Job schedule:
+Machine 1: [15, 9, 1, 13, 11, 8, 12, 10, 20, 18]
+Machine 2: [19, 4, 2, 16, 6, 5, 3, 17, 7, 14]
+
+Best fitness value in generation 2: 0
+Job schedule:
+Machine 1: [2, 1, 15, 9, 16, 6, 5, 3, 20, 18]
+Machine 2: [10, 13, 19, 4, 11, 8, 12, 17, 7, 14]
+
+Best fitness value in generation 3: 0
+Job schedule:
+Machine 1: [4, 17, 5, 6, 11, 16, 7, 14, 13, 15]
+Machine 2: [8, 1, 19, 20, 2, 10, 3, 9, 12, 18]
+
+Best fitness value in generation 4: 0
+Job schedule:
+Machine 1: [4, 17, 5, 6, 11, 16, 7, 9, 15, 3]
+Machine 2: [8, 1, 19, 20, 2, 10, 12, 14, 18, 13]
+
+Best fitness value in generation 5: 0
+Job schedule:
+Machine 1: [6, 4, 12, 2, 14, 8, 3, 11, 13, 18]
+Machine 2: [1, 20, 9, 16, 7, 17, 19, 10, 15, 5]
+
+Best fitness value in generation 6: 0
+Job schedule:
+Machine 1: [6, 20, 9, 16, 7, 13, 11, 10, 18, 5]
+Machine 2: [1, 12, 2, 14, 8, 3, 4, 15, 17, 19]
+
+Best fitness value in generation 7: 0
+Job schedule:
+Machine 1: [20, 9, 1, 16, 7, 4, 17, 19, 13, 18]
+Machine 2: [12, 2, 6, 14, 8, 15, 3, 11, 5, 10]
+
+Best fitness value in generation 8: 0
+Job schedule:
+Machine 1: [4, 17, 12, 2, 6, 14, 11, 10, 15, 5]
+Machine 2: [8, 20, 9, 1, 16, 7, 3, 13, 18, 19]
+
+Best fitness value in generation 9: 0
+Job schedule:
+Machine 1: [4, 17, 12, 1, 2, 14, 15, 19, 10, 13]
+Machine 2: [8, 20, 6, 9, 16, 7, 3, 11, 5, 18]
+
+Best fitness value in generation 10: 0
+Job schedule:
+Machine 1: [6, 14, 3, 12, 2, 15, 8, 19, 17, 5]
+Machine 2: [1, 13, 20, 9, 16, 4, 10, 11, 7, 18]
+
+Best fitness value in generation 11: 0
+Job schedule:
+Machine 1: [4, 17, 12, 2, 6, 14, 7, 3, 13, 5]
+Machine 2: [8, 20, 9, 1, 16, 15, 11, 10, 18, 19]
+
+Best fitness value in generation 12: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 11, 10, 15, 5]
+Machine 2: [1, 8, 20, 9, 16, 7, 3, 13, 18, 19]
+
+Best fitness value in generation 13: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 11, 10, 15, 19]
+Machine 2: [1, 8, 20, 9, 16, 7, 3, 13, 18, 5]
+
+Best fitness value in generation 14: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 11, 10, 15, 5]
+Machine 2: [1, 8, 20, 9, 16, 7, 3, 13, 18, 19]
+
+Best fitness value in generation 15: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 11, 3, 10, 5]
+Machine 2: [1, 8, 20, 9, 16, 7, 15, 19, 13, 18]
+
+Best fitness value in generation 16: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 11, 3, 10, 5]
+Machine 2: [1, 8, 20, 9, 16, 7, 15, 19, 13, 18]
+
+Best fitness value in generation 17: 0
+Job schedule:
+Machine 1: [4, 17, 6, 12, 2, 14, 11, 13, 15, 19]
+Machine 2: [8, 20, 1, 9, 16, 7, 3, 10, 18, 5]
+
+Best fitness value in generation 18: 0
+Job schedule:
+Machine 1: [6, 4, 17, 12, 2, 14, 15, 7, 10, 19]
+Machine 2: [1, 8, 20, 9, 16, 13, 3, 11, 18, 5]
+
+Best fitness value in generation 19: 0
+Job schedule:
+Machine 1: [6, 4, 17, 20, 9, 16, 13, 3, 7, 18]
+Machine 2: [1, 8, 11, 12, 2, 14, 15, 19, 10, 5]
+
+Best fitness value in generation 20: 0
+Job schedule:
+Machine 1: [6, 8, 1, 12, 2, 14, 7, 15, 10, 19]
+Machine 2: [4, 17, 20, 9, 16, 13, 11, 3, 18, 5]
+
+Best fitness value in generation 21: 0
+Job schedule:
+Machine 1: [6, 4, 17, 13, 12, 2, 7, 3, 11, 18]
+Machine 2: [1, 8, 14, 20, 9, 16, 15, 19, 10, 5]
+
+Best fitness value in generation 22: 0
+Job schedule:
+Machine 1: [6, 4, 17, 20, 11, 2, 7, 3, 19, 18]
+Machine 2: [1, 8, 12, 14, 9, 16, 15, 13, 10, 5]
+
+Best fitness value in generation 23: 0
+Job schedule:
+Machine 1: [6, 14, 18, 13, 12, 2, 7, 3, 11, 8]
+Machine 2: [1, 4, 17, 20, 9, 16, 15, 19, 10, 5]
+
+Best fitness value in generation 24: 0
+Job schedule:
+Machine 1: [6, 14, 13, 17, 20, 2, 7, 11, 10, 19]
+Machine 2: [1, 4, 8, 12, 9, 16, 15, 3, 18, 5]
+
+Best fitness value in generation 25: 0
+Job schedule:
+Machine 1: [6, 8, 1, 12, 2, 14, 7, 15, 10, 19]
+Machine 2: [4, 17, 20, 9, 16, 13, 11, 3, 18, 5]
+
+Best fitness value in generation 26: 0
+Job schedule:
+Machine 1: [6, 14, 4, 17, 20, 2, 15, 11, 19, 18]
+Machine 2: [1, 13, 8, 12, 9, 16, 7, 3, 10, 5]
+
+Best fitness value in generation 27: 0
+Job schedule:
+Machine 1: [6, 14, 4, 17, 20, 2, 18, 15, 11, 19]
+Machine 2: [1, 13, 8, 12, 9, 16, 7, 3, 10, 5]
+
+Best fitness value in generation 28: 0
+Job schedule:
+Machine 1: [6, 16, 4, 8, 20, 9, 7, 3, 11, 18]
+Machine 2: [1, 13, 14, 17, 12, 2, 15, 19, 10, 5]
+
+Best fitness value in generation 29: 0
+Job schedule:
+Machine 1: [6, 14, 4, 17, 12, 2, 7, 11, 18, 19]
+Machine 2: [1, 13, 8, 20, 9, 16, 15, 3, 10, 5]
+
+Best fitness value in generation 30: 0
+Job schedule:
+Machine 1: [6, 14, 4, 17, 20, 2, 15, 11, 3, 19]
+Machine 2: [1, 13, 8, 12, 9, 16, 7, 18, 10, 5]
+
+Best fitness value in generation 31: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 15, 11, 18, 19]
+Machine 2: [1, 14, 4, 17, 12, 2, 7, 3, 10, 5]
+
+Best fitness value in generation 32: 0
+Job schedule:
+Machine 1: [6, 14, 4, 16, 12, 10, 7, 18, 9, 19]
+Machine 2: [1, 13, 8, 17, 20, 2, 15, 3, 11, 5]
+
+Best fitness value in generation 33: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 7, 11, 19, 10]
+Machine 2: [1, 14, 4, 17, 12, 2, 15, 3, 18, 5]
+
+Best fitness value in generation 34: 0
+Job schedule:
+Machine 1: [6, 16, 4, 17, 12, 2, 7, 3, 11, 18]
+Machine 2: [1, 14, 8, 20, 9, 13, 15, 19, 10, 5]
+
+Best fitness value in generation 35: 0
+Job schedule:
+Machine 1: [6, 14, 17, 4, 20, 9, 18, 7, 3, 19]
+Machine 2: [16, 1, 13, 8, 12, 2, 10, 15, 11, 5]
+
+Best fitness value in generation 36: 0
+Job schedule:
+Machine 1: [6, 16, 4, 17, 12, 2, 7, 11, 19, 18]
+Machine 2: [1, 14, 8, 20, 9, 13, 15, 3, 10, 5]
+
+Best fitness value in generation 37: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 15, 11, 19, 10]
+Machine 2: [16, 1, 4, 17, 12, 2, 7, 18, 3, 5]
+
+Best fitness value in generation 38: 0
+Job schedule:
+Machine 1: [6, 14, 16, 8, 20, 9, 7, 11, 19, 18]
+Machine 2: [1, 13, 4, 17, 12, 2, 15, 3, 10, 5]
+
+Best fitness value in generation 39: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 12, 9, 7, 11, 19, 18]
+Machine 2: [16, 1, 4, 17, 20, 2, 15, 3, 10, 5]
+
+Best fitness value in generation 40: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 18, 15, 11, 19]
+Machine 2: [1, 14, 4, 17, 12, 2, 7, 3, 10, 5]
+
+Best fitness value in generation 41: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 18, 15, 3, 19]
+Machine 2: [1, 14, 4, 17, 7, 2, 12, 11, 10, 5]
+
+Best fitness value in generation 42: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 7, 11, 19, 18]
+Machine 2: [1, 14, 4, 17, 12, 2, 15, 3, 10, 5]
+
+Best fitness value in generation 43: 0
+Job schedule:
+Machine 1: [6, 14, 4, 17, 20, 9, 15, 11, 18, 19]
+Machine 2: [16, 1, 8, 13, 12, 2, 7, 3, 10, 5]
+
+Best fitness value in generation 44: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 7, 11, 19, 10]
+Machine 2: [16, 1, 4, 17, 12, 2, 15, 18, 3, 5]
+
+Best fitness value in generation 45: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 18, 7, 3, 19]
+Machine 2: [16, 1, 4, 17, 12, 2, 10, 15, 11, 5]
+
+Best fitness value in generation 46: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 15, 11, 18, 19]
+Machine 2: [1, 14, 4, 17, 12, 2, 7, 3, 10, 5]
+
+Best fitness value in generation 47: 0
+Job schedule:
+Machine 1: [6, 16, 13, 8, 20, 9, 18, 15, 3, 19]
+Machine 2: [1, 14, 4, 17, 12, 2, 7, 10, 11, 5]
+
+Best fitness value in generation 48: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 7, 11, 10, 19]
+Machine 2: [16, 1, 4, 17, 12, 2, 15, 18, 3, 5]
+
+Best fitness value in generation 49: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 18, 15, 3, 19]
+Machine 2: [16, 1, 4, 17, 12, 2, 7, 10, 11, 5]
+
+Best fitness value in generation 50: 0
+Job schedule:
+Machine 1: [6, 14, 13, 8, 20, 9, 18, 15, 3, 19]
+Machine 2: [16, 1, 4, 17, 12, 2, 7, 10, 11, 5]
+
+Job times on Machine 1: Job6: 102 minutes, Job14: 107 minutes, Job13: 117 minutes, Job8: 127 minutes, Job20: 107 minutes, Job9: 132 minutes, Job18: 122 minutes, Job15: 102 minutes, Job3: 102 minutes, Job19: 112 minutes
+
+Machine 1 Last Job Completion Time: 1130 minutes
+
+
+Job times on Machine 2: Job16: 127 minutes, Job1: 102 minutes, Job4: 107 minutes, Job17: 132 minutes, Job12: 112 minutes, Job2: 112 minutes, Job7: 122 minutes, Job10: 122 minutes, Job11: 112 minutes, Job5: 107 minutes
+
+Machine 2 Last Job Completion Time: 1155 minutes
+
+Machine 1, Job 6: Start Time: 0, End Time: 102, Tardiness: 0
+Machine 1, Job 14: Start Time: 102, End Time: 209, Tardiness: 0
+Machine 1, Job 13: Start Time: 209, End Time: 326, Tardiness: 0
+Machine 1, Job 8: Start Time: 326, End Time: 453, Tardiness: 0
+Machine 1, Job 20: Start Time: 453, End Time: 560, Tardiness: 0
+Machine 1, Job 9: Start Time: 560, End Time: 692, Tardiness: 0
+Machine 1, Job 18: Start Time: 692, End Time: 814, Tardiness: 0
+Machine 1, Job 15: Start Time: 814, End Time: 916, Tardiness: 0
+Machine 1, Job 3: Start Time: 916, End Time: 1018, Tardiness: 0
+Machine 1, Job 19: Start Time: 1018, End Time: 1130, Tardiness: 0
+Machine 2, Job 16: Start Time: 0, End Time: 127, Tardiness: 0
+Machine 2, Job 1: Start Time: 127, End Time: 229, Tardiness: 0
+Machine 2, Job 4: Start Time: 229, End Time: 336, Tardiness: 0
+Machine 2, Job 17: Start Time: 336, End Time: 468, Tardiness: 0
+Machine 2, Job 12: Start Time: 468, End Time: 580, Tardiness: 0
+Machine 2, Job 2: Start Time: 580, End Time: 692, Tardiness: 0
+Machine 2, Job 7: Start Time: 692, End Time: 814, Tardiness: 0
+Machine 2, Job 10: Start Time: 814, End Time: 936, Tardiness: 0
+Machine 2, Job 11: Start Time: 936, End Time: 1048, Tardiness: 0
+Machine 2, Job 5: Start Time: 1048, End Time: 1155, Tardiness: 0
